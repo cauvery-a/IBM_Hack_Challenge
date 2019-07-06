@@ -2,34 +2,18 @@
 
 DOCUMENTATION
 
-**TEAM NAME:**
+**TEAM NAME:**<br>
 HackElite
 
-**PROBLEM STATEMENT TITLE:**
+**PROBLEM STATEMENT TITLE:**<br>
 Help me with my Mood- With Social-media Health Analysis and Display
 Engine (SHADE).
 
-**ROLES:**
+**SCOPE OF WORK AND TECHNOLOGY USED:**<br><br>
 
-Cauvery A: 
-Removal of Stop words
-App Creation
-Databases
+**Problem Statement: HELP ME WITH MY MOOD**<br><br>
 
-Greeshma Panchakshary: 
-APIs
-Playlist Creation
-Databases
-
-Akshitha Y V: 
-Sentiment Analysis
-Databases
-
-**SCOPE OF WORK AND TECHNOLOGY USED:**
-
-**Problem Statement: HELP ME WITH MY MOOD**
-
-**Goals:**
+**Goals:**<br><br>
 
 Develop a mobile/desktop app that will:
 
@@ -44,8 +28,8 @@ the person by suggesting some curated playlist of songs
 based on his interest or something similar that you can
 imagine.
 
-**Technology Used:**
+**Technology Used:**<br>
 App development framework for desktop: Java.
 
-**APIs used:**
+**APIs used:**<br>
 twitter4j, stop words removal, Swings.
