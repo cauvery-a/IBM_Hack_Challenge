@@ -12,7 +12,7 @@ Engine (SHADE).
 
 **Problem Statement: HELP ME WITH MY MOOD**<br><br>
 
-**Goals:**<br><br>
+**Goals:**<br>
 Develop a mobile/desktop app that will:
 
 * Get a person’s social contents (e.g. tweets) for a duration
