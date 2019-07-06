@@ -2,14 +2,14 @@
 
 DOCUMENTATION
 
-# TEAM NAME:
+**TEAM NAME:**
 HackElite
 
-# PROBLEM STATEMENT TITLE:
+**PROBLEM STATEMENT TITLE:**
 Help me with my Mood- With Social-media Health Analysis and Display
 Engine (SHADE).
 
-# ROLES:
+**ROLES:**
 
 Cauvery A: 
 Removal of Stop words
@@ -25,11 +25,13 @@ Akshitha Y V:
 Sentiment Analysis
 Databases
 
-# SCOPE OF WORK AND TECHNOLOGY USED:
+**SCOPE OF WORK AND TECHNOLOGY USED:**
 
-# Problem Statement: HELP ME WITH MY MOOD
+**Problem Statement: HELP ME WITH MY MOOD**
 
-# Goals: Develop a mobile/desktop app that will
+**Goals:**
+
+Develop a mobile/desktop app that will:
 
 * Get a person’s social contents (e.g. tweets) for a duration
 (e.g. past 24hours).
@@ -42,10 +44,8 @@ the person by suggesting some curated playlist of songs
 based on his interest or something similar that you can
 imagine.
 
-# Timeline: 2 nd -Oct-2018
-
-# Technology Used: 
+**Technology Used:**
 App development framework for desktop: Java.
 
-# APIs used: 
+**APIs used:**
 twitter4j, stop words removal, Swings.
