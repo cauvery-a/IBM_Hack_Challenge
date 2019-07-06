@@ -1,6 +1,5 @@
 # IBM_Hack_Challenge
 
-DOCUMENTATION
 
 **TEAM NAME:**<br>
 HackElite
